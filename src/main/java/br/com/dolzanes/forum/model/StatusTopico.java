@@ -1,4 +1,4 @@
-package br.com.dolzanes.forum.modelo;
+package br.com.dolzanes.forum.model;
 
 public enum StatusTopico {
 	

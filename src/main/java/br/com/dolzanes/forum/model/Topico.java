@@ -1,4 +1,4 @@
-package br.com.dolzanes.forum.modelo;
+package br.com.dolzanes.forum.model;
 
 import java.time.LocalDateTime;
 import java.util.ArrayList;
